@@ -40,12 +40,12 @@ public class P2_2_Figuras
     li.Add(r);
     li.Add(c);
     li.Add(te);
-
+    double sumaAreas = 0;
     foreach (Figura figuras in li)
     {
       figuras.setColor(Color.FromArgb(255, 0, 20, 40));
       Console.WriteLine(figuras);
-
+      sumaAreas += figuras.GetArea();
     }
 
 
