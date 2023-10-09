@@ -16,4 +16,9 @@ internal abstract class Figura
   }
   public abstract double GetArea();
 
+  public void setColor(Color color)
+  {
+    _color = color;
+  }
+
 }

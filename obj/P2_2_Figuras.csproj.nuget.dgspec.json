@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DI\\P2_2_Figuras\\P2_2_Figuras.csproj": {}
+    "D:\\COSAS DE CLASE\\P2_2_FigurasAM-main\\P2_2_FigurasAM\\P2_2_Figuras.csproj": {}
   },
   "projects": {
-    "C:\\DI\\P2_2_Figuras\\P2_2_Figuras.csproj": {
+    "D:\\COSAS DE CLASE\\P2_2_FigurasAM-main\\P2_2_FigurasAM\\P2_2_Figuras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DI\\P2_2_Figuras\\P2_2_Figuras.csproj",
+        "projectUniqueName": "D:\\COSAS DE CLASE\\P2_2_FigurasAM-main\\P2_2_FigurasAM\\P2_2_Figuras.csproj",
         "projectName": "P2_2_Figuras",
-        "projectPath": "C:\\DI\\P2_2_Figuras\\P2_2_Figuras.csproj",
-        "packagesPath": "C:\\Users\\diurno\\.nuget\\packages\\",
-        "outputPath": "C:\\DI\\P2_2_Figuras\\obj\\",
+        "projectPath": "D:\\COSAS DE CLASE\\P2_2_FigurasAM-main\\P2_2_FigurasAM\\P2_2_Figuras.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "D:\\COSAS DE CLASE\\P2_2_FigurasAM-main\\P2_2_FigurasAM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\diurno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

@@ -43,6 +43,7 @@ public class P2_2_Figuras
 
     foreach (Figura figuras in li)
     {
+      figuras.setColor(Color.FromArgb(255, 0, 20, 40));
       Console.WriteLine(figuras);
 
     }

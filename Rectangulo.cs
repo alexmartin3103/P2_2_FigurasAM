@@ -23,7 +23,7 @@ internal class Rectangulo : Figura
 
     public override string ToString()
     {
-        return $"Alto: {this._altura} \n Ancho:{this._base} \n" + base.ToString();
+        return $"Alto: {this._altura} \nAncho:{this._base} \n" + base.ToString();
     }
     public double getAltura()
     {

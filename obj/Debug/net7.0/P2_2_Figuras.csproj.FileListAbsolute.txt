@@ -12,3 +12,17 @@ C:\DI\P2_2_Figuras\obj\Debug\net7.0\refint\P2_2_Figuras.dll
 C:\DI\P2_2_Figuras\obj\Debug\net7.0\P2_2_Figuras.pdb
 C:\DI\P2_2_Figuras\obj\Debug\net7.0\P2_2_Figuras.genruntimeconfig.cache
 C:\DI\P2_2_Figuras\obj\Debug\net7.0\ref\P2_2_Figuras.dll
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\bin\Debug\net7.0\P2_2_Figuras.exe
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\bin\Debug\net7.0\P2_2_Figuras.deps.json
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\bin\Debug\net7.0\P2_2_Figuras.runtimeconfig.json
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\bin\Debug\net7.0\P2_2_Figuras.dll
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\bin\Debug\net7.0\P2_2_Figuras.pdb
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\obj\Debug\net7.0\P2_2_Figuras.GeneratedMSBuildEditorConfig.editorconfig
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\obj\Debug\net7.0\P2_2_Figuras.AssemblyInfoInputs.cache
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\obj\Debug\net7.0\P2_2_Figuras.AssemblyInfo.cs
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\obj\Debug\net7.0\P2_2_Figuras.csproj.CoreCompileInputs.cache
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\obj\Debug\net7.0\P2_2_Figuras.dll
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\obj\Debug\net7.0\refint\P2_2_Figuras.dll
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\obj\Debug\net7.0\P2_2_Figuras.pdb
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\obj\Debug\net7.0\P2_2_Figuras.genruntimeconfig.cache
+D:\COSAS DE CLASE\P2_2_FigurasAM-main\P2_2_FigurasAM\obj\Debug\net7.0\ref\P2_2_Figuras.dll
