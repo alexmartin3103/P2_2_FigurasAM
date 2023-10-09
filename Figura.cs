@@ -7,6 +7,10 @@ internal abstract class Figura
 {
   protected Color _color;
 
+  public override string ToString()
+  {
+    return $"Color: {this._color}";
+  }
   public abstract double GetArea();
 
 }
