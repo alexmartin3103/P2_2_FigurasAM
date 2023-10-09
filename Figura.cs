@@ -7,9 +7,12 @@ internal abstract class Figura
 {
   protected Color _color;
 
+
   public override string ToString()
   {
-    return $"Color: {this._color}";
+    System.ComponentModel.TypeConverter converter =
+        System.ComponentModel.TypeDescriptor.GetConverter(_color);
+    return $"Color: {converter.ConvertToString(_color)}";
   }
   public abstract double GetArea();
 

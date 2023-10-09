@@ -9,13 +9,13 @@ internal class Circulo : Figura
 
     public Circulo(double _radio, Color _color)
     {
-        _radio = this._radio;
-        _color = this._color;
+        this._radio = _radio;
+        this._color = _color;
     }
 
     public override double GetArea()
     {
-        return _radio * _radio * Math.PI;
+        return +_radio * _radio * Math.PI;
     }
 
     public double getRadio()

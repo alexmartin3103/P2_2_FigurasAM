@@ -8,8 +8,8 @@ internal class TrianguloEquilatero : Figura
 
     public TrianguloEquilatero(double _lado, Color _color)
     {
-        _lado = this._lado;
-        _color = this._color;
+        this._lado = _lado;
+        this._color = _color;
     }
 
     public override double GetArea()

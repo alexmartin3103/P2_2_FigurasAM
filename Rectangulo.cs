@@ -7,12 +7,14 @@ internal class Rectangulo : Figura
 {
     protected double _base;
     protected double _altura;
-    protected Rectangulo(double _altura, double _base, Color _color)
+    public Rectangulo(double _altura, double _base, Color _color)
     {
-        _altura = this._altura;
-        _base = this._base;
-        _color = this._color;
+        this._altura = _altura;
+        this._base = _base;
+        this._color = _color;
     }
+
+
 
     public override double GetArea()
     {
